@@ -1,6 +1,6 @@
 ## ACL2020 Tutorial: Open-Domain Question Answering
 
-The ACL2020 tutorial will be held at **3-6:30pm PST**, July 5th, 2020, by Danqi Chen `<danqic@cs.princeton.edu>` and Scott Yih `<scottyih@fb.com>`.
+The ACL2020 tutorial will be held at **3-6:30pm PST**, July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`.
 
 ## Overview
 This tutorial provides a comprehensive and coherent overview of cutting-edge research in open-domain question answering (QA), the task of answering questions using a large collection of documents of diversified topics. We will start by first giving a brief historical background, discussing the basic setup and core technical challenges of the research problem, and then describe modern datasets with the common evaluation metrics and benchmarks. The focus will then shift to cutting-edge models proposed for open-domain QA, including two-stage retriever-reader approaches, dense retriever and end-to-end training, and retriever-free methods. Finally, we will cover some hybrid approaches using both text and large knowledge bases and conclude the tutorial with important open questions. We hope that the tutorial will not only help the audience to acquire up-to-date knowledge but also provide new perspectives to stimulate the advances of open-domain QA research in the next phase.
