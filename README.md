@@ -1,4 +1,4 @@
-## ACL2020 Tutorial: Open-Domain Question Answering
+# ACL2020 Tutorial: Open-Domain Question Answering
 
 The ACL2020 tutorial will be held at **3-6:30pm PST**, July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`.
 
