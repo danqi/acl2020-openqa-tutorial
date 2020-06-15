@@ -12,7 +12,7 @@ This tutorial provides a comprehensive and coherent overview of cutting-edge res
 1. Datasets & evaluation
 1. Two-stage retriever-reader approaches
 1. Dense retriever and end-to-end training
-1. Retriever-free approaches
+1. Retrieval-free approaches
 1. Open-domain QA using KBs and text
 1. Open problems and future directions
 
