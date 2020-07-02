@@ -19,7 +19,7 @@ A more detailed document can be found [here](docs/acl2020-tutorial.pdf). We will
 
 ## Reading List
 
-### Classical QA work
+### Early QA work
 1. [Answering English questions by computer: a survey](docs/simmons1965.pdf). R.F.Simmons. 1965
 1. [The Structure and Performance of an Open-domain Question Answering System](https://www.aclweb.org/anthology/P00-1071.pdf). Dan Moldovan, Sanda Harabagiu, Marius Pasca, Rada Mihalcea, Roxana Girju, Richard Goodrum, Vasile Rus. ACL 2000
 1. [An Analysis of the AskMSR Question-answering System](https://www.aclweb.org/anthology/W02-1033.pdf). Eric Brill, Susan Dumais and Michele Banko. EMNLP 2002.
