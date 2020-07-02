@@ -21,8 +21,8 @@ A more detailed document can be found [here](docs/acl2020-tutorial.pdf). We will
 
 ### Classical QA work
 1. [Answering English questions by computer: a survey](docs/simmons1965.pdf). R.F.Simmons. 1965
-1. [The structure and performance of an open-domain question answering system](https://www.aclweb.org/anthology/P00-1071.pdf). Dan Moldovan, Sanda Harabagiu, Marius Pasca, Rada Mihalcea, Roxana Girju, Richard Goodrum, Vasile Rus. ACL 2000
-1. [An analysis of the AskMSR question-answering system](https://www.aclweb.org/anthology/W02-1033.pdf). Eric Brill, Susan Dumais and Michele Banko. EMNLP 2002.
+1. [The Structure and Performance of an Open-domain Question Answering System](https://www.aclweb.org/anthology/P00-1071.pdf). Dan Moldovan, Sanda Harabagiu, Marius Pasca, Rada Mihalcea, Roxana Girju, Richard Goodrum, Vasile Rus. ACL 2000
+1. [An Analysis of the AskMSR Question-answering System](https://www.aclweb.org/anthology/W02-1033.pdf). Eric Brill, Susan Dumais and Michele Banko. EMNLP 2002.
 1. [Open-Domain Question–Answering](https://wiki.eecs.yorku.ca/course_archive/2012-13/F/6328/_media/ibm-ai-qna.pdf). John Prage. 2007
 1. [An Exploration of the Principles Underlying Redundancy-Based Factoid Question Answering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.294.4576&rep=rep1&type=pdf). Jimmy Lin. 2007.
 1. [Building Watson: An Overview of the DeepQA Project](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2303/2165). David Ferrucci, Eric Brown, Jennifer Chu-Carroll et al. 2010
