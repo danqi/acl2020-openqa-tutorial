@@ -5,20 +5,19 @@ The [ACL2020 tutorial](docs/acl2020-tutorial.pdf) will be held at **3-6:30pm PST
 ## Overview
 This tutorial provides a comprehensive and coherent overview of cutting-edge research in open-domain question answering (QA), the task of answering questions using a large collection of documents of diversified topics. We will start by first giving a brief historical background, discussing the basic setup and core technical challenges of the research problem, and then describe modern datasets with the common evaluation metrics and benchmarks. The focus will then shift to cutting-edge models proposed for open-domain QA, including two-stage retriever-reader approaches, dense retriever and end-to-end training, and retriever-free methods. Finally, we will cover some hybrid approaches using both text and large knowledge bases and conclude the tutorial with important open questions. We hope that the tutorial will not only help the audience to acquire up-to-date knowledge but also provide new perspectives to stimulate the advances of open-domain QA research in the next phase.
 
-## Outline
+## Tutorial Slides
 
 #### **NEW: All the slides are available now!**
-
 We recommend reading our draft slides before the tutorial. We may have some minor last-minute changes, so please check out the latest version before the live session.
 
-1. Introduction & problem definition [[slides]](slides/part1-introduction.pdf)
-1. A history of open-domain (textual) QA [[slides]](slides/part2-history.pdf)
-1. Datasets & evaluation [[slides]](slides/part3-dataset-evaluation.pdf)
-1. Two-stage retriever-reader approaches [[slides]](slides/part4-retriever-reader.pdf)
-1. Dense retriever and end-to-end training [[slides]](slides/part5-dense-retriever-e2e-training.pdf)
-1. Retrieval-free approaches [[slides]](slides/part6-retrieval-free.pdf)
-1. Open-domain QA using KBs and text [[slides]](slides/part7-kb-text.pdf)
-1. Open problems and future directions [[slides]](slides/part8-conclusion.pdf)
+1. [Introduction & problem definition](slides/part1-introduction.pdf)
+1. [A history of open-domain (textual) QA](slides/part2-history.pdf)
+1. [Datasets & evaluation](slides/part3-dataset-evaluation.pdf)
+1. [Two-stage retriever-reader approaches](slides/part4-retriever-reader.pdf)
+1. [Dense retriever and end-to-end training](slides/part5-dense-retriever-e2e-training.pdf)
+1. [Retrieval-free approaches](slides/part6-retrieval-free.pdf)
+1. [Open-domain QA using KBs and text](slides/part7-kb-text.pdf)
+1. [Open problems and future directions](slides/part8-conclusion.pdf)
 
 ## Reading List
 
