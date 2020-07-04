@@ -2,7 +2,7 @@
 
 This ACL2020 tutorial will be held on July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`. The video is *NOT* pre-recorded and we will have a 3.5-hour live session at **3-6:30pm PST**. You can find more information below and hope to see you there!
 
-[[ACL website portal]](https://virtual.acl2020.org/tutorial_T8.html) [[Google calendar]](https://calendar.google.com/calendar/r/eventedit?text=Open-Domain+Question+Answering&dates=20200705T220000/20200706T013000&ctz=UTC&details&location&sprop&sprop=name:) [[Countdown timer]]([here](https://www.timeanddate.com/countdown/generic?p0=179&iso=20200705T18&year=2020&month=7&day=5&hour=18&min=0&sec=0&msg=ACL%202020%20Tutorial%3a%20Open-domain%20Question%20Answering))
+[[ACL website portal]](https://virtual.acl2020.org/tutorial_T8.html) [[Google calendar]](https://calendar.google.com/calendar/r/eventedit?text=Open-Domain+Question+Answering&dates=20200705T220000/20200706T013000&ctz=UTC&details&location&sprop&sprop=name:) [[Countdown timer]](https://www.timeanddate.com/countdown/generic?p0=179&iso=20200705T18&year=2020&month=7&day=5&hour=18&min=0&sec=0&msg=ACL%202020%20Tutorial%3a%20Open-domain%20Question%20Answering)
 
 
 ## Overview
