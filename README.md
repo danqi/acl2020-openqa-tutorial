@@ -1,13 +1,14 @@
 # ACL2020 Tutorial: Open-Domain Question Answering
 
-The [ACL2020 tutorial](docs/acl2020-tutorial.pdf) will be held on July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`.
-The video is not pre-recorded and we will have a 3.5-hour live session at **3-6:30pm PST** (we have a countdown timer [here](https://www.timeanddate.com/countdown/generic?p0=179&iso=20200705T18&year=2020&month=7&day=5&hour=18&min=0&sec=0&msg=ACL%202020%20Tutorial%3a%20Open-domain%20Question%20Answering)). You can find more information below and hope to see you soon!
+This ACL2020 tutorial will be held on July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`. The video is *NOT* pre-recorded and we will have a 3.5-hour live session at **3-6:30pm PST**. You can find more information below and hope to see you there!
 
-[[ACL website portal]](https://virtual.acl2020.org/tutorial_T8.html) [[Google calendar]](https://calendar.google.com/calendar/r/eventedit?text=Open-Domain+Question+Answering&dates=20200705T220000/20200706T013000&ctz=UTC&details&location&sprop&sprop=name:)
+[[ACL website portal]](https://virtual.acl2020.org/tutorial_T8.html) [[Google calendar]](https://calendar.google.com/calendar/r/eventedit?text=Open-Domain+Question+Answering&dates=20200705T220000/20200706T013000&ctz=UTC&details&location&sprop&sprop=name:) [[Countdown timer]]([here](https://www.timeanddate.com/countdown/generic?p0=179&iso=20200705T18&year=2020&month=7&day=5&hour=18&min=0&sec=0&msg=ACL%202020%20Tutorial%3a%20Open-domain%20Question%20Answering))
 
 
 ## Overview
 This tutorial provides a comprehensive and coherent overview of cutting-edge research in open-domain question answering (QA), the task of answering questions using a large collection of documents of diversified topics. We will start by first giving a brief historical background, discussing the basic setup and core technical challenges of the research problem, and then describe modern datasets with the common evaluation metrics and benchmarks. The focus will then shift to cutting-edge models proposed for open-domain QA, including two-stage retriever-reader approaches, dense retriever and end-to-end training, and retriever-free methods. Finally, we will cover some hybrid approaches using both text and large knowledge bases and conclude the tutorial with important open questions. We hope that the tutorial will not only help the audience to acquire up-to-date knowledge but also provide new perspectives to stimulate the advances of open-domain QA research in the next phase.
+
+A more detailed introduction can be found [here](docs/acl2020-tutorial.pdf).
 
 ## Tutorial Slides
 
