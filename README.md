@@ -1,21 +1,24 @@
 # ACL2020 Tutorial: Open-Domain Question Answering
 
-The ACL2020 tutorial will be held at **3-6:30pm PST**, July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`.
+The [ACL2020 tutorial](docs/acl2020-tutorial.pdf) will be held at **3-6:30pm PST**, July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`.
 
 ## Overview
 This tutorial provides a comprehensive and coherent overview of cutting-edge research in open-domain question answering (QA), the task of answering questions using a large collection of documents of diversified topics. We will start by first giving a brief historical background, discussing the basic setup and core technical challenges of the research problem, and then describe modern datasets with the common evaluation metrics and benchmarks. The focus will then shift to cutting-edge models proposed for open-domain QA, including two-stage retriever-reader approaches, dense retriever and end-to-end training, and retriever-free methods. Finally, we will cover some hybrid approaches using both text and large knowledge bases and conclude the tutorial with important open questions. We hope that the tutorial will not only help the audience to acquire up-to-date knowledge but also provide new perspectives to stimulate the advances of open-domain QA research in the next phase.
 
 ## Outline
-1. Introduction & problem definition
-1. A history of open-domain (textual) QA
-1. Datasets & evaluation
-1. Two-stage retriever-reader approaches
-1. Dense retriever and end-to-end training
-1. Retrieval-free approaches
-1. Open-domain QA using KBs and text
-1. Open problems and future directions
 
-A more detailed document can be found [here](docs/acl2020-tutorial.pdf). We will also update the slides of each part before the tutorial day.
+#### **NEW: All the slides are available now!**
+
+We recommend reading our draft slides before the tutorial. We may have some minor last-minute changes, so please check out the latest version before the live session.
+
+1. Introduction & problem definition [[slides]](slides/part1-introduction.pdf)
+1. A history of open-domain (textual) QA [[slides]](slides/part2-history.pdf)
+1. Datasets & evaluation [[slides]](slides/part3-dataset-evaluation.pdf)
+1. Two-stage retriever-reader approaches [[slides]](slides/part4-retriever-reader.pdf)
+1. Dense retriever and end-to-end training [[slides]](slides/part5-dense-retriever-e2e-training.pdf)
+1. Retrieval-free approaches [[slides]](slides/part6-retrieval-free.pdf)
+1. Open-domain QA using KBs and text [[slides]](slides/part7-kb-text.pdf)
+1. Open problems and future directions [[slides]](slides/part8-conclusion.pdf)
 
 ## Reading List
 
@@ -53,4 +56,4 @@ Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Ed
 1. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/pdf/2005.11401.pdf). Patrick Lewis, Ethan Perez, Aleksandara Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela. arXiv 2020.
 1. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf). Tom B. Brown, Benjamin Mann, Nick Ryder et al. arXiv 2020.
 
-We understand this is a long reading list :) In case you wonder where you should start with, we plan to discuss the papers in bold detailedly during our tutorial.
+We understand this is a long reading list :) In case you wonder where you should start with, we plan to discuss the papers in bold in depth during our tutorial.
