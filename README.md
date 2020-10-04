@@ -1,6 +1,6 @@
 # ACL2020 Tutorial: Open-Domain Question Answering
 
-This ACL2020 tutorial ~~will be~~ was held on July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`. You can find all the tutorial materials below and the live video is available at the [ACL website portal](https://virtual.acl2020.org/tutorial_T8.html).
+This ACL2020 tutorial ~~will be~~ was held on July 5th, 2020, by [Danqi Chen](https://www.cs.princeton.edu/~danqic/) `<danqic@cs.princeton.edu>` and [Scott Yih](http://scottyih.org/) `<scottyih@fb.com>`. You can find all the tutorial materials below and the video is [available](https://slideslive.com/38931668/t8-opendomain-question-answering) now.
 
 <!-- The video is *NOT* pre-recorded and we will have a 3.5-hour live session at **3-6:30pm PST**. You can find more information below and hope to see you there! -->
 
